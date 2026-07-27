@@ -295,6 +295,7 @@ Compute:
 - [fastapi-starter-project](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 - [Full Stack FastAPI and MongoDB - Base Project Generator](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 - [Uvicorn Poetry FastAPI Project Template](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.
+- - [Backend Dash](https://github.com/prathamdmehta/backend-dash) - CLI that scaffolds a full FastAPI + SQLAlchemy backend (SQLite/Postgres/MySQL) in one command, with optional JWT + Google OAuth, repository pattern, service layer, and Alembic migrations built in.
 
 ### Docker Images
 
